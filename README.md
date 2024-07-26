@@ -1,0 +1,2 @@
+Calculadora simple que permite sumar, restar, multiplicar, dividir, potencia y resto.
+Funciona ingresando el primer numero, el operador y el segundo numero en un bucle continuo finalizando la calculadora ingresando F o f en cualquiera de los cuadros de ingreso del usuario. Se valida si en la operacion de division se hace la division por cero. Esto ultimo de ser verdadero, pide que se reingrese un valor valido, continuando con la operatoria..
