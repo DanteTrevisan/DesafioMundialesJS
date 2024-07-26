@@ -30,5 +30,5 @@ while (usuario != "F" && usuario != "f") {
        
 }
 
-alert("Saliendo");
+alert("Saliendo"); 
 
