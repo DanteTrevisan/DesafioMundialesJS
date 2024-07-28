@@ -1,4 +1,3 @@
-debugger;
 let usuario = prompt("Ingrese que operacion matematica desea realizar con los simbolos de +, -, *, /, ^(potencia), %(modulo o resto). Para salir ingrese 'f' o 'F' (sin comillas)");
 let numero1;
 let numero2;
