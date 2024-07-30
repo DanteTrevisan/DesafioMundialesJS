@@ -1,1 +1,2 @@
-Cuantos mundiales vivio una persona? Considerando que los mundiales se juegan cada 4 años lo que hace este simple programa es que si la edad ingresada es un multiplo de 4 nos dice cuando mundiales vivio esa persona. De lo contrario toma el piso de la division de edad/4 para retornar cuantos mundiales vivio.
+Calculadora simple que permite sumar, restar, multiplicar, dividir, potencia y resto.
+Funciona ingresando el primer numero, el operador y el segundo numero en un bucle continuo finalizando la calculadora ingresando F o f en cualquiera de los cuadros de ingreso del usuario. Se valida si en la operacion de division se hace la division por cero. Esto ultimo de ser verdadero, pide que se reingrese un valor valido, continuando con la operatoria..
